@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lewis 👋</h1>
+<h1 align="center">Hi, I'm Lewis </h1>
 
 <p align="center">
   <b>Intern Web Developer</b> @ <a href="https://github.com/FamilySearch">FamilySearch</a> · Lehi, UT<br>
