@@ -7,10 +7,14 @@
 
 <p align="center">
   <a href="https://paxuni.com/">paxuni.com</a> ·
-  <a href="https://g1creative.com//">g1creative.com</a> ·
-  <a href="https://lewisportfolio.com/">portfolio</a> ·
-  <a href="https://www.linkedin.com/in/lewieville/">LinkedIn</a> ·
-  <a href="mailto:lewis.miller.g1@gmail.com">lewis.miller.g1@gmail.com</a>
+  <a href="https://g1creative.com/">g1creative.com</a> ·
+  <a href="https://lewisportfolio.com/">portfolio</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lewieville/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/lewie.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:lewis.miller.g1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
