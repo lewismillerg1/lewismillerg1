@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://paxuni.com/">paxuni.com</a> ·
-  <a href="https://g1creative.com/">g1creative.com</a> ·
-  <a href="https://lewisportfolio.com/">portfolio</a>
+  <a href="https://paxuni.com/"><img src="https://img.shields.io/badge/PaxUni-6F42C1?style=for-the-badge&logo=vercel&logoColor=white" alt="PaxUni"></a>
+  <a href="https://g1creative.com/"><img src="https://img.shields.io/badge/G1_Creative-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="G1 Creative"></a>
+  <a href="https://lewisportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
