@@ -7,6 +7,8 @@
 
 <p align="center">
   <a href="https://paxuni.com/">paxuni.com</a> ·
+  <a href="https://g1creative.com//">g1creative.com</a> ·
+  <a href="https://lewisportfolio.com/">portfolio</a> ·
   <a href="mailto:lewis.miller.g1@gmail.com">lewis.miller.g1@gmail.com</a>
 </p>
 
