@@ -45,23 +45,6 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: lewismillerg1/wedding
 
-  isocalendar:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: lewismillerg1
-          filename: metrics/isocalendar.svg
-          base: ""
-          config_timezone: America/Denver
-          extras_css: |
-            svg { background: #0d1117; color: #c9d1d9; }
-            h2 { color: #58a6ff; }
-            [fill="#ebedf0"] { fill: #161b22 !important; }
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
   repositories:
     runs-on: ubuntu-latest
     steps:

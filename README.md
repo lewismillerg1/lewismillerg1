@@ -43,9 +43,6 @@
 
 <img alt="metrics" src="./metrics/main.svg">
 
-
-<img alt="isometric commit calendar" src="./metrics/isocalendar.svg">
-
 ---
 
 ### interests
