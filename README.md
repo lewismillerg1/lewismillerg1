@@ -1,8 +1,13 @@
 <h1 align="center">Hi, I'm Lewis </h1>
 
 <p align="center">
-  <b>Intern Web Developer</b> @ <a href="https://github.com/FamilySearch">FamilySearch</a> · Lehi, UT<br>
-  TypeScript · React · Node.js
+  <b>Intern Web Developer</b> @ <a href="https://github.com/FamilySearch">FamilySearch</a> · Lehi, UT
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
 <p align="center">
