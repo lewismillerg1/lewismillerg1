@@ -42,10 +42,6 @@ jobs:
           plugin_lines_sections: base, history
           plugin_lines_history_limit: 1
 
-          # Full-year commit calendar — now densely filled
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
           plugin_repositories: yes
           plugin_repositories_featured: lewismillerg1/wedding
 
