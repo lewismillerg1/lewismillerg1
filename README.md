@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Lewis </h1>
 
 <p align="center">
-  <b>Intern Web Developer</b> @ <a href="https://github.com/FamilySearch">FamilySearch</a> · Lehi, UT
+  <b>Intern Web Developer</b> @ <a href="https://github.com/FamilySearch">FamilySearch</a><br>
+  Founder of <a href="https://g1creative.com/">G1 Creative</a> &amp; <a href="https://paxuni.com/">PaxUni</a> · Lehi, UT
 </p>
 
 <p align="center">
@@ -52,16 +53,7 @@
 
 ### 🚀 Projects
 
-| Project | What it is |
-| --- | --- |
-| **[wedding](https://github.com/lewismillerg1/wedding)** | Wedding invitations site — TypeScript |
-| **[leagueville](https://github.com/lewismillerg1/leagueville)** | League management web app |
-| **[gym-app](https://github.com/lewismillerg1/gym-app)** | Workout tracking app |
-| **[couples-game](https://github.com/lewismillerg1/couples-game)** | Party game for couples |
-| **[agent-teams-ai](https://github.com/lewismillerg1/agent-teams-ai)** | Multi-agent AI experiment |
-| **[discord-bot](https://github.com/lewismillerg1/discord-bot)** | Discord automation bot |
-| **[FamilySearchRPG](https://github.com/lewismillerg1/FamilySearchRPG)** | Genealogy-themed RPG |
-| **[svu-campus-clash](https://github.com/lewismillerg1/svu-campus-clash)** | Campus multiplayer game |
+<img alt="featured projects" src="./metrics/repositories.svg">
 
 ---
 

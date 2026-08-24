@@ -73,3 +73,30 @@ jobs:
             h2 { color: #58a6ff; }
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+  repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lewismillerg1
+          filename: metrics/repositories.svg
+          base: ""
+          config_timezone: America/Denver
+          config_animations: yes
+          extras_css: |
+            svg { background: #0d1117; color: #c9d1d9; }
+            h2 { color: #58a6ff; }
+          plugin_repositories: yes
+          plugin_repositories_forks: yes
+          plugin_repositories_order: featured
+          plugin_repositories_featured: >-
+            lewismillerg1/wedding,
+            lewismillerg1/leagueville,
+            lewismillerg1/gym-app,
+            lewismillerg1/couples-game,
+            lewismillerg1/agent-teams-ai,
+            lewismillerg1/discord-bot,
+            lewismillerg1/FamilySearchRPG,
+            lewismillerg1/svu-campus-clash
