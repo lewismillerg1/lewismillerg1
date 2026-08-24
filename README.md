@@ -30,6 +30,16 @@
 
 ---
 
+### 📊 Stats
+
+<img alt="metrics" src="./metrics/main.svg">
+
+### 📅 Commits, isometric
+
+<img alt="isometric commit calendar" src="./metrics/isocalendar.svg">
+
+---
+
 ### 🚀 Projects
 
 | Project | What it is |
