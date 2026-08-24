@@ -49,8 +49,4 @@
 ---
 
 ### check this out
-
-
----
-
-<p align="center"><sub>The snake and 3D graph regenerate themselves daily via GitHub Actions — no tokens required.</sub></p>
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
