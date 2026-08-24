@@ -25,7 +25,7 @@
 
 ---
 
-### 🐍 Watch the snake eat my commits
+### my pet snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lewismillerg1/lewismillerg1/output/snake-dark.svg">
@@ -35,25 +35,21 @@
 
 ---
 
-### 🌆 My year in commits, in 3D
 
 <img alt="3d contribution calendar" src="./profile-3d-contrib/profile-night-rainbow.svg">
 
 ---
 
-### 📊 Stats
 
 <img alt="metrics" src="./metrics/main.svg">
 
-### 📅 Commits, isometric
 
 <img alt="isometric commit calendar" src="./metrics/isocalendar.svg">
 
 ---
 
-### 🚀 Projects
+### check this out
 
-<img alt="featured projects" src="./metrics/repositories.svg">
 
 ---
 
