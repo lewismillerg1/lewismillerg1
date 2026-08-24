@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Lewis 👋</h1>
 
-<!--
-**lewismillerg1/lewismillerg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Intern Web Developer <a href="https://github.com/FamilySearch">@FamilySearch</a> · Lehi, UT<br>
+  <a href="https://paxuni.com/">paxuni.com</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./github-metrics.svg" alt="Lewis Miller's GitHub metrics">
+</p>
+
+<sub align="center">Dashboard auto-generated daily with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
