@@ -25,7 +25,7 @@ jobs:
             svg { background: #0d1117; color: #c9d1d9; }
             h2 { color: #58a6ff; }
             .field svg, svg .octicon { fill: #8b949e; }
-            :root { --color-calendar-graph-day-bg:#161b22; --color-calendar-graph-day-border:rgba(240,246,252,0.08); }
+            [fill="#ebedf0"] { fill: #161b22 !important; }
             .calendar .day { outline-color: rgba(240,246,252,0.06); }
 
           plugin_introduction: yes
@@ -62,7 +62,7 @@ jobs:
           extras_css: |
             svg { background: #0d1117; color: #c9d1d9; }
             h2 { color: #58a6ff; }
-            :root { --color-calendar-graph-day-bg:#161b22; --color-calendar-graph-day-border:rgba(240,246,252,0.08); }
+            [fill="#ebedf0"] { fill: #161b22 !important; }
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
